@@ -1,2 +1,6 @@
 # lojavirtual
-É uma loja 
+É uma loja para estudo de programação. 
+
+Aprendendo a usar o Git e o GitHub. 
+
+
